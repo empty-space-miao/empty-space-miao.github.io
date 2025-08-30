@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>奇点笔记</title>
+    <title>回音收集員</title>
     <link>https://&lt;empty-space-miao&gt;.github.io/</link>
-    <description>Recent content on 奇点笔记</description>
+    <description>Recent content on 回音收集員</description>
     <generator>Hugo -- 0.149.0</generator>
-    <language>zh-cn</language>
+    <language>zh-tw</language>
     <lastBuildDate>Sat, 30 Aug 2025 22:00:00 +0800</lastBuildDate>
     <atom:link href="https://<empty-space-miao>.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
